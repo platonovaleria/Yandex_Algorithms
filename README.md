@@ -1,1 +1,1 @@
-# Yandex_Algorithms_Training_1.0
+# Yandex_Algorithms
